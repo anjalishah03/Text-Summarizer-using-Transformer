@@ -1,4 +1,4 @@
-# Dialogue Summarization with Fine-tuned T5
+# Text Summarization with Fine-tuned T5
 
 This repository contains code for fine-tuning a T5-small model for dialogue summarization using the SAMSum dataset. The model is trained to generate concise summaries from conversational text.
 
